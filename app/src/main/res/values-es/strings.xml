@@ -1,0 +1,30 @@
+<resources>
+    <string name="no_data">Sin información</string>
+    <string name="new_note">Nueva nota</string>
+    <string name="update">Actualizar</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="priority">Prioridad</string>
+    <string name="search">Búsqueda</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="priority_high">Prioridad alta</string>
+    <string name="priority_low">Prioridad baja</string>
+    <string name="delete_all">Borrar todo</string>
+    <string name="add">Agregar</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="some_fields_empty">Algunos campos están vacíos!</string>
+    <string name="data_saved_successfully">Información guardada!</string>
+    <string name="ok">Aceptar</string>
+    <string name="data_deleted">Eliminado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_note_confirmation">Seguro que deseas eliminar esta nota?</string>
+    <string name="delete_everything_confirmation">Seguro que deseas eliminar todo?</string>
+    <string name="undo">Deshacer</string>
+
+    <string-array name="priorities">
+        <item>Prioridad Alta</item>
+        <item>Prioridad Media</item>
+        <item>Prioridad Baja</item>
+    </string-array>
+</resources>
